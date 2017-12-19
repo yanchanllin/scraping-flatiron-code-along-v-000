@@ -1,4 +1,3 @@
-
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
@@ -69,6 +68,6 @@ end
     #   end
     # end
   # end
-end 
+end
   binding.pry
 >>>>>>> dc4b793fffb3f30da83a1fc6446184e1c72e4f64
